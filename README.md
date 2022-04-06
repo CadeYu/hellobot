@@ -1,7 +1,8 @@
- #本机器人使用discord.js来编写
- 
+# 本机器人使用discord.js编写
 
 
+## 1. pingpong功能
 
- ##你好
- 
+![pingpong 图片](/assests/WX20220406-091924@2x.png/)
+
+## 
